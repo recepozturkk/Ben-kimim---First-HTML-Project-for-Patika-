@@ -1,2 +1,4 @@
-# Ben-kimim---First-HTML-Project-for-Patika-
+# HTML Tabanlı İlk Patika Projesi
+---
+
 HTML ile kendimden kısaca bahsettiğim proje ödevidir.
